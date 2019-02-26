@@ -10,12 +10,6 @@ namespace Game1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a test repo");
-            Console.WriteLine("This is second line");
-            Console.WriteLine("This is another line too");
-
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
